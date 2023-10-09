@@ -12,9 +12,7 @@ Analyzing the trends in software development
 ## Project Overview
 The main components of the project are as follows:
 * Data Collection Sources:
-   ** Stack Overflow Developer 2019 Survey
-   GitHub Job Postings
-   Programming Languages Annual Salary
+Stack Overflow Developer 2019 Survey, GitHub Job Postings, Programming Languages Annual Salary
 * Data Exploration
 * Data Cleaning
 * Data Visualization

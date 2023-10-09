@@ -1,6 +1,7 @@
 ## Capstone-Project-Coursera
 Data Analyst Capstone Project in Coursera
 
+
 # Technology Trends & Analysis
 Analyzing the trends in software development
 ## Purpose:
@@ -16,4 +17,4 @@ Stack Overflow Developer 2019 Survey, GitHub Job Postings, Programming Languages
 * Data Exploration
 * Data Cleaning
 * Data Visualization
-* Presentation
+

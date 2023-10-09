@@ -1,5 +1,4 @@
-## Capstone-Project-Coursera
-Data Analyst Capstone Project in Coursera
+Capstone-Project-Coursera 
 
 
 # Technology Trends & Analysis
